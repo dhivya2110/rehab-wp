@@ -1,0 +1,9 @@
+---------------------------------------------------------------------
+Version 1.1
+    - Fixed issue with automatic upgrade on WP 3.0
+
+---------------------------------------------------------------------
+Version 1.0
+    - Fixed issue with export condition that was only accurate after save button was clicked
+    - Changed submit button label to "Save Feed" for new feeds and "Update Feed" for existing feeds
+    - Fixed issue with multiple feeds being created
